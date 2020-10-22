@@ -1,0 +1,7 @@
+bb77f6f02a5c2da39813701dc1b5b2c1 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+71563eec746b026513046d355270fa38 *R/restaurant.R
+114664f03892cbbf2eea2dc92cc5f45a *data/restaurant.RData
+20962d80134c1d88b4117b3cc09f1553 *data/restaurant_gold.RData
+ed781263e6f6856004d4bb16b6caa723 *man/restaurant.Rd
+cc78f3c34c7c56e3a1fd5c688389a291 *man/restaurant_gold.Rd
